@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "of the Sunnah"
 include(":app")
+include(":domain")
